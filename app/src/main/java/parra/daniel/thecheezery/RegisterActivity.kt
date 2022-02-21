@@ -16,6 +16,5 @@ class RegisterActivity : AppCompatActivity() {
             var intent: Intent = Intent(this, MenuActivity::class.java)
             startActivity(intent)
         }
-
     }
 }
